@@ -1,0 +1,24 @@
+name: Daily sync
+
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: ./scripts/sync.sh
+      - name: Commit
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "No changes"; exit 0; fi
+          git config user.name "BenchGecko Bot"
+          git config user.email "hello@benchgecko.ai"
+          git add -A
+          git commit -m "data: $(date -u +%Y-%m-%d)"
+          git push
