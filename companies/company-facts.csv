@@ -1,0 +1,314 @@
+company,metric,value,as_of,source,source_url,method,current
+01-ai,employees,200,2025-06-01,,,legacy_import,true
+01-ai,total_raised_usd,300000000,2026-04-12,,,legacy_import,true
+01-ai,valuation_usd,1000000000,2023-11-01,,,legacy_import,true
+ai21-labs,arr_usd,57800000,2024-01-01,,,legacy_import,true
+ai21-labs,employees,227,2026-02-28,,,legacy_import,true
+ai21-labs,total_raised_usd,636000000,2026-04-12,,,legacy_import,true
+ai21-labs,valuation_usd,4000000000,2025-05-01,,,legacy_import,true
+alibaba-qwen,employees,200000,2025-12-01,,,legacy_import,true
+alibaba-qwen,parent_market_cap_usd,293000000000,2026-04-12,,,legacy_import,true
+alibaba-qwen,revenue_fy_usd,148401000000,2026-03-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1577552&type=10-K,sec_edgar,true
+amazon-aws,capex_usd,200000000000,2025-12-31,,,legacy_import,true
+amazon-aws,employees,1550000,2025-12-01,,,legacy_import,true
+amazon-aws,market_cap_usd,2712973589629,2026-10-02,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,true
+amazon-aws,parent_market_cap_usd,2260000000000,2026-04-12,,,legacy_import,true
+amazon-aws,revenue_fy_usd,716924000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724&type=10-K,sec_edgar,true
+amd,arr_usd,28000000000,2025-12-01,,,legacy_import,true
+amd,capex_usd,5000000000,2025-12-31,,,legacy_import,true
+amd,employees,26000,2025-12-01,,,legacy_import,true
+amd,market_cap_usd,1034842253874,2026-10-02,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,true
+amd,parent_market_cap_usd,200000000000,2026-04-12,,,legacy_import,true
+amd,revenue_fy_usd,34639000000,2025-12-27,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488&type=10-K,sec_edgar,true
+amd,total_raised_usd,0,2026-04-12,,,legacy_import,true
+anthropic,arr_usd,14000000000,2026-02-01,,,legacy_import,true
+anthropic,employees,4585,2026-02-28,,,legacy_import,true
+anthropic,total_raised_usd,64000000000,2026-04-12,,,legacy_import,true
+anthropic,valuation_usd,380000000000,2026-02-01,,,legacy_import,false
+anthropic,valuation_usd,965000000000,2026-05-28,nbcnews.com,https://www.nbcnews.com/tech/tech-news/anthropic-secures-965-billion-valuation-after-raising-65-billion-rcna347390,research_bot,true
+anyscale,arr_usd,100000000,2026-01-01,,,legacy_import,true
+anyscale,employees,200,2025-12-01,,,legacy_import,true
+anyscale,total_raised_usd,281000000,2026-04-12,,,legacy_import,true
+anyscale,valuation_usd,1000000000,2021-12-01,,,legacy_import,true
+anysphere,arr_usd,1000000000,2025-11-01,,,legacy_import,true
+anysphere,employees,300,2025-12-01,,,legacy_import,true
+anysphere,total_raised_usd,3500000000,2026-04-12,,,legacy_import,true
+anysphere,valuation_usd,29300000000,2025-11-01,,,legacy_import,true
+applied-digital,employees,400,2026-01-01,,,legacy_import,true
+applied-digital,market_cap_usd,7397486063,2026-10-02,SEC shares outstanding (2026-07-28) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,true
+applied-digital,revenue_fy_usd,611311000,2026-05-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879&type=10-K,sec_edgar,true
+applied-digital,valuation_usd,2800000000,2026-04-01,,,legacy_import,true
+asml,arr_usd,30000000000,2025-12-01,,,legacy_import,true
+asml,capex_usd,3000000000,2025-12-31,,,legacy_import,true
+asml,employees,43000,2025-12-01,,,legacy_import,true
+asml,parent_market_cap_usd,380000000000,2026-04-12,,,legacy_import,true
+asml,total_raised_usd,0,2026-04-12,,,legacy_import,true
+baidu,employees,28000,2025-12-01,,,legacy_import,true
+baidu,parent_market_cap_usd,45000000000,2026-04-12,,,legacy_import,true
+baidu,revenue_fy_usd,18458000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1329099&type=10-K,sec_edgar,true
+baseten,employees,150,2026-01-01,,,legacy_import,true
+baseten,total_raised_usd,600000000,2026-04-12,,,legacy_import,true
+baseten,valuation_usd,5000000000,2026-01-01,,,legacy_import,true
+broadcom,arr_usd,56000000000,2025-12-01,,,legacy_import,true
+broadcom,capex_usd,8000000000,2025-12-31,,,legacy_import,true
+broadcom,employees,37000,2025-12-01,,,legacy_import,true
+broadcom,market_cap_usd,1695306910256,2026-10-02,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,true
+broadcom,parent_market_cap_usd,900000000000,2026-04-12,,,legacy_import,true
+broadcom,revenue_fy_usd,63887000000,2025-11-02,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168&type=10-K,sec_edgar,true
+broadcom,total_raised_usd,0,2026-04-12,,,legacy_import,true
+cerebras,arr_usd,1000000000,2025-01-01,,,legacy_import,true
+cerebras,employees,500,2025-12-01,,,legacy_import,true
+cerebras,total_raised_usd,1400000000,2026-04-12,,,legacy_import,true
+cerebras,valuation_usd,23000000000,2026-02-01,,,legacy_import,false
+cerebras,valuation_usd,23000000000,2026-02-03,cerebras.ai,https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h,research_bot,true
+character-ai,arr_usd,30000000,2025-01-01,,,legacy_import,true
+character-ai,employees,100,2025-06-01,,,legacy_import,true
+character-ai,total_raised_usd,193000000,2026-04-12,,,legacy_import,true
+character-ai,valuation_usd,1000000000,2025-08-01,,,legacy_import,true
+cohere,arr_usd,150000000,2025-10-01,,,legacy_import,true
+cohere,employees,500,2026-01-01,,,legacy_import,true
+cohere,total_raised_usd,1540000000,2026-04-12,,,legacy_import,true
+cohere,valuation_usd,7000000000,2025-09-01,,,legacy_import,true
+copy-ai,arr_usd,15000000,2024-01-01,,,legacy_import,true
+copy-ai,employees,80,2025-06-01,,,legacy_import,true
+copy-ai,total_raised_usd,16900000,2026-04-12,,,legacy_import,true
+coreweave,capex_usd,10000000000,2025-12-31,,,legacy_import,true
+coreweave,employees,1500,2026-01-01,,,legacy_import,true
+coreweave,market_cap_usd,49380620000,2026-10-02,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,true
+coreweave,revenue_fy_usd,5131000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628&type=10-K,sec_edgar,true
+coreweave,total_raised_usd,12000000000,2026-04-12,,,legacy_import,true
+coreweave,valuation_usd,46000000000,2026-03-01,,,legacy_import,true
+crusoe-energy,employees,500,2026-01-01,,,legacy_import,true
+crusoe-energy,total_raised_usd,900000000,2026-04-12,,,legacy_import,true
+crusoe-energy,valuation_usd,3400000000,2025-10-01,,,legacy_import,false
+crusoe-energy,valuation_usd,30900000000,2026-09-17,crusoe.ai,https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding,research_bot,true
+databricks,arr_usd,5400000000,2026-01-01,,,legacy_import,false
+databricks,arr_usd,7000000000,2026-08-13,databricks.com,https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales,research_bot,true
+databricks,employees,8000,2026-01-01,,,legacy_import,true
+databricks,total_raised_usd,7000000000,2026-04-12,,,legacy_import,true
+databricks,valuation_usd,134000000000,2026-02-01,,,legacy_import,false
+databricks,valuation_usd,190000000000,2026-08-13,databricks.com,https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales,research_bot,true
+deepseek,arr_usd,220000000,2025-06-01,,,legacy_import,true
+deepseek,employees,200,2025-12-01,,,legacy_import,true
+deepseek,total_raised_usd,1100000000,2026-04-12,,,legacy_import,true
+deepseek,valuation_usd,3400000000,2025-06-01,,,legacy_import,true
+elevenlabs,arr_usd,330000000,2025-12-01,,,legacy_import,false
+elevenlabs,arr_usd,500000000,2026-05-05,elevenlabs.io,https://elevenlabs.io/blog/500m-arr-and-new-investors,research_bot,true
+elevenlabs,employees,300,2026-01-01,,,legacy_import,true
+elevenlabs,total_raised_usd,780000000,2026-04-12,,,legacy_import,true
+elevenlabs,valuation_usd,11000000000,2026-02-01,,,legacy_import,false
+elevenlabs,valuation_usd,22000000000,2026-09-30,elevenlabs.io,https://elevenlabs.io/blog/tender-22bn,research_bot,true
+fireworks-ai,arr_usd,130000000,2025-05-01,,,legacy_import,false
+fireworks-ai,arr_usd,1000000000,2026-07-16,cnbc.com,https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html,research_bot,true
+fireworks-ai,employees,200,2025-12-01,,,legacy_import,true
+fireworks-ai,total_raised_usd,327000000,2026-04-12,,,legacy_import,true
+fireworks-ai,valuation_usd,4000000000,2025-10-01,,,legacy_import,false
+fireworks-ai,valuation_usd,17500000000,2026-07-16,cnbc.com,https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html,research_bot,true
+glean,arr_usd,200000000,2025-12-01,,,legacy_import,false
+glean,arr_usd,300000000,2026-05-01,glean.com,https://www.glean.com/about,research_bot,true
+glean,employees,600,2025-12-01,,,legacy_import,true
+glean,total_raised_usd,765000000,2026-04-12,,,legacy_import,false
+glean,total_raised_usd,770000000,2026-04-16,forbes.com,https://www.forbes.com/companies/glean/,research_bot,true
+glean,valuation_usd,7200000000,2025-06-01,,,legacy_import,true
+google,capex_usd,180000000000,2025-12-31,,,legacy_import,true
+google,employees,183000,2025-12-01,,,legacy_import,true
+google,market_cap_usd,4201005000000,2026-10-02,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,true
+google,parent_market_cap_usd,4000000000000,2026-04-12,,,legacy_import,true
+google,revenue_fy_usd,402836000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044&type=10-K,sec_edgar,true
+google-deepmind,arr_usd,210100000,2026-01-01,,,legacy_import,true
+google-deepmind,employees,8429,2026-03-01,,,legacy_import,true
+google-deepmind,parent_market_cap_usd,4000000000000,2026-04-12,,,legacy_import,false
+google-deepmind,parent_market_cap_usd,4201005000000,2026-10-02,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,true
+groq,employees,400,2025-12-01,,,legacy_import,true
+groq,total_raised_usd,1300000000,2026-04-12,,,legacy_import,true
+groq,valuation_usd,20000000000,2025-12-01,,,legacy_import,true
+harvey-ai,arr_usd,190000000,2026-01-01,,,legacy_import,true
+harvey-ai,employees,300,2026-01-01,,,legacy_import,true
+harvey-ai,total_raised_usd,1000000000,2026-04-12,,,legacy_import,true
+harvey-ai,valuation_usd,11000000000,2026-03-25,,,legacy_import,true
+hugging-face,arr_usd,130000000,2024-01-01,,,legacy_import,true
+hugging-face,employees,684,2026-02-28,,,legacy_import,true
+hugging-face,total_raised_usd,396000000,2026-04-12,,,legacy_import,true
+hugging-face,valuation_usd,4500000000,2023-08-01,,,legacy_import,true
+inflection-ai,employees,50,2025-06-01,,,legacy_import,true
+inflection-ai,total_raised_usd,1520000000,2026-04-12,,,legacy_import,true
+inflection-ai,valuation_usd,1700000000,2024-03-01,,,legacy_import,true
+intel,arr_usd,55000000000,2025-12-01,,,legacy_import,true
+intel,capex_usd,25000000000,2025-12-31,,,legacy_import,true
+intel,employees,110000,2025-12-01,,,legacy_import,true
+intel,market_cap_usd,601900520000,2026-10-02,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,true
+intel,parent_market_cap_usd,100000000000,2026-04-12,,,legacy_import,true
+intel,revenue_fy_usd,52853000000,2025-12-27,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863&type=10-K,sec_edgar,true
+intel,total_raised_usd,0,2026-04-12,,,legacy_import,true
+iren,employees,300,2026-01-01,,,legacy_import,true
+iren,market_cap_usd,14924133426,2026-10-02,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,true
+iren,revenue_fy_usd,707007000,2026-06-30,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848&type=10-K,sec_edgar,true
+iren,valuation_usd,4200000000,2026-04-01,,,legacy_import,true
+jasper-ai,arr_usd,88000000,2025-01-01,,,legacy_import,true
+jasper-ai,employees,1014,2025-12-01,,,legacy_import,true
+jasper-ai,total_raised_usd,131000000,2026-04-12,,,legacy_import,true
+jasper-ai,valuation_usd,1500000000,2025-05-01,,,legacy_import,true
+labelbox,employees,300,2025-12-01,,,legacy_import,true
+labelbox,total_raised_usd,189000000,2026-04-12,,,legacy_import,true
+lambda,arr_usd,500000000,2025-05-01,,,legacy_import,true
+lambda,employees,400,2025-12-01,,,legacy_import,true
+lambda,total_raised_usd,2300000000,2026-04-12,,,legacy_import,true
+lambda,valuation_usd,5000000000,2025-11-01,,,legacy_import,true
+langchain,employees,150,2025-12-01,,,legacy_import,true
+langchain,total_raised_usd,260000000,2026-04-12,,,legacy_import,true
+langchain,valuation_usd,1250000000,2025-10-01,,,legacy_import,true
+marvell,arr_usd,6000000000,2025-12-01,,,legacy_import,true
+marvell,capex_usd,1000000000,2025-12-31,,,legacy_import,true
+marvell,employees,8900,2025-12-01,,,legacy_import,true
+marvell,market_cap_usd,238771101000,2026-10-02,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,true
+marvell,parent_market_cap_usd,80000000000,2026-04-12,,,legacy_import,true
+marvell,revenue_fy_usd,8194600000,2026-01-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632&type=10-K,sec_edgar,true
+marvell,total_raised_usd,0,2026-04-12,,,legacy_import,true
+meta,capex_usd,125000000000,2025-12-31,,,legacy_import,true
+meta,employees,72000,2026-03-01,,,legacy_import,true
+meta,market_cap_usd,1868253280000,2026-10-02,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,true
+meta,parent_market_cap_usd,1500000000000,2026-04-12,,,legacy_import,true
+meta,revenue_fy_usd,200966000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801&type=10-K,sec_edgar,true
+meta-ai,employees,5000,2026-03-01,,,legacy_import,true
+meta-ai,parent_market_cap_usd,1500000000000,2026-04-12,,,legacy_import,false
+meta-ai,parent_market_cap_usd,1868253280000,2026-10-02,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,true
+micron,arr_usd,30000000000,2025-12-01,,,legacy_import,true
+micron,capex_usd,14000000000,2025-12-31,,,legacy_import,true
+micron,employees,48000,2025-12-01,,,legacy_import,true
+micron,market_cap_usd,1213973404078,2026-10-02,SEC shares outstanding (2026-06-17) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,true
+micron,parent_market_cap_usd,130000000000,2026-04-12,,,legacy_import,true
+micron,revenue_fy_usd,37378000000,2025-08-28,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125&type=10-K,sec_edgar,true
+micron,total_raised_usd,0,2026-04-12,,,legacy_import,true
+microsoft,capex_usd,150000000000,2025-12-31,,,legacy_import,true
+microsoft,employees,228000,2025-12-01,,,legacy_import,true
+microsoft,market_cap_usd,3842942557957,2026-10-02,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,true
+microsoft,parent_market_cap_usd,3000000000000,2026-04-12,,,legacy_import,true
+microsoft,revenue_fy_usd,331839000000,2026-06-30,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019&type=10-K,sec_edgar,true
+midjourney,arr_usd,500000000,2025-01-01,,,legacy_import,true
+midjourney,employees,150,2025-12-01,,,legacy_import,true
+midjourney,total_raised_usd,0,2026-04-12,,,legacy_import,true
+midjourney,valuation_usd,10000000000,2025-12-01,,,legacy_import,true
+minimax,arr_usd,79000000,2025-01-01,,,legacy_import,true
+minimax,employees,428,2025-12-31,,,legacy_import,true
+minimax,total_raised_usd,1150000000,2026-04-12,,,legacy_import,true
+minimax,valuation_usd,4000000000,2026-01-01,,,legacy_import,true
+mistral-ai,arr_usd,300000000,2025-09-01,,,legacy_import,true
+mistral-ai,employees,862,2026-02-28,,,legacy_import,true
+mistral-ai,total_raised_usd,3050000000,2026-04-12,,,legacy_import,true
+mistral-ai,valuation_usd,14000000000,2026-01-01,,,legacy_import,true
+modal,arr_usd,300000000,2026-05-21,modal.com,https://modal.com/blog/modal-series-c,research_bot,true
+modal,employees,80,2025-12-01,,,legacy_import,true
+modal,total_raised_usd,100000000,2026-04-12,,,legacy_import,true
+modal,valuation_usd,2500000000,2026-02-01,,,legacy_import,false
+modal,valuation_usd,4650000000,2026-05-21,modal.com,https://modal.com/blog/modal-series-c,research_bot,true
+moonshot-ai,employees,400,2026-01-01,,,legacy_import,true
+moonshot-ai,total_raised_usd,1200000000,2026-04-12,,,legacy_import,true
+moonshot-ai,valuation_usd,18000000000,2026-03-01,,,legacy_import,true
+nebius,employees,1200,2026-01-01,,,legacy_import,true
+nebius,revenue_fy_usd,529800000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1513845&type=10-K,sec_edgar,true
+nebius,total_raised_usd,2700000000,2026-04-12,,,legacy_import,true
+nebius,valuation_usd,9500000000,2026-04-01,,,legacy_import,true
+nvidia,employees,36000,2026-01-01,,,legacy_import,true
+nvidia,market_cap_usd,5638195000000,2026-10-02,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,true
+nvidia,parent_market_cap_usd,4500000000000,2026-04-12,,,legacy_import,true
+nvidia,revenue_fy_usd,215938000000,2026-01-25,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810&type=10-K,sec_edgar,true
+openai,arr_usd,25000000000,2026-02-01,,,legacy_import,true
+openai,employees,4500,2026-03-01,,,legacy_import,true
+openai,total_raised_usd,120000000000,2026-04-12,,,legacy_import,true
+openai,valuation_usd,840000000000,2026-02-01,,,legacy_import,true
+perplexity,arr_usd,200000000,2026-02-01,,,legacy_import,true
+perplexity,employees,300,2026-01-01,,,legacy_import,true
+perplexity,total_raised_usd,1710000000,2026-04-12,,,legacy_import,true
+perplexity,valuation_usd,21210000000,2026-01-01,,,legacy_import,true
+pinecone,arr_usd,14000000,2025-01-01,,,legacy_import,true
+pinecone,employees,200,2025-12-01,,,legacy_import,true
+pinecone,total_raised_usd,138000000,2026-04-12,,,legacy_import,true
+pinecone,valuation_usd,750000000,2023-04-01,,,legacy_import,true
+qualcomm,arr_usd,42000000000,2025-12-01,,,legacy_import,true
+qualcomm,capex_usd,9000000000,2025-12-31,,,legacy_import,true
+qualcomm,employees,51000,2025-12-01,,,legacy_import,true
+qualcomm,market_cap_usd,194113500000,2026-10-02,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,true
+qualcomm,parent_market_cap_usd,200000000000,2026-04-12,,,legacy_import,true
+qualcomm,revenue_fy_usd,44284000000,2025-09-28,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328&type=10-K,sec_edgar,true
+qualcomm,total_raised_usd,0,2026-04-12,,,legacy_import,true
+reka-ai,arr_usd,10900000,2025-09-01,,,legacy_import,true
+reka-ai,employees,60,2026-01-31,,,legacy_import,true
+reka-ai,total_raised_usd,168000000,2026-04-12,,,legacy_import,true
+reka-ai,valuation_usd,1000000000,2025-07-01,,,legacy_import,true
+replicate,arr_usd,5300000,2024-01-01,,,legacy_import,true
+replicate,employees,37,2024-12-01,,,legacy_import,true
+replicate,total_raised_usd,57900000,2026-04-12,,,legacy_import,true
+replicate,valuation_usd,350000000,2023-07-01,,,legacy_import,true
+replit,arr_usd,265000000,2025-12-01,,,legacy_import,true
+replit,employees,192,2026-01-01,,,legacy_import,true
+replit,total_raised_usd,750000000,2026-04-12,,,legacy_import,true
+replit,valuation_usd,9000000000,2026-01-01,,,legacy_import,true
+runway,arr_usd,90000000,2025-06-01,,,legacy_import,true
+runway,employees,200,2025-12-01,,,legacy_import,true
+runway,total_raised_usd,700000000,2026-04-12,,,legacy_import,true
+runway,valuation_usd,5300000000,2026-02-01,,,legacy_import,true
+sambanova,employees,500,2025-12-01,,,legacy_import,true
+sambanova,total_raised_usd,1100000000,2026-04-12,,,legacy_import,true
+sambanova,valuation_usd,1600000000,2026-01-01,,,legacy_import,false
+sambanova,valuation_usd,11000000000,2026-07-08,sambanova.ai,https://sambanova.ai/press/sambanova-completes-first-close-of-1b-financing-at-11b-valuation,research_bot,true
+samsung-electronics,arr_usd,220000000000,2025-12-01,,,legacy_import,true
+samsung-electronics,capex_usd,53000000000,2025-12-31,,,legacy_import,true
+samsung-electronics,employees,267000,2025-12-01,,,legacy_import,true
+samsung-electronics,parent_market_cap_usd,350000000000,2026-04-12,,,legacy_import,true
+samsung-electronics,total_raised_usd,0,2026-04-12,,,legacy_import,true
+scale-ai,arr_usd,2000000000,2025-01-01,,,legacy_import,true
+scale-ai,employees,1500,2025-12-01,,,legacy_import,false
+scale-ai,employees,1000,2026-04-17,scale.com,https://scale.com/about,research_bot,true
+scale-ai,total_raised_usd,15900000000,2026-04-12,,,legacy_import,true
+scale-ai,valuation_usd,29200000000,2025-06-01,,,legacy_import,false
+scale-ai,valuation_usd,29000000000,2025-06-12,scale.com,https://scale.com/about,research_bot,true
+sk-hynix,arr_usd,45000000000,2025-12-01,,,legacy_import,true
+sk-hynix,capex_usd,15000000000,2025-12-31,,,legacy_import,true
+sk-hynix,employees,35000,2025-12-01,,,legacy_import,true
+sk-hynix,parent_market_cap_usd,120000000000,2026-04-12,,,legacy_import,true
+sk-hynix,total_raised_usd,0,2026-04-12,,,legacy_import,true
+snorkel-ai,arr_usd,148000000,2025-01-01,,,legacy_import,false
+snorkel-ai,arr_usd,375000000,2026-09-22,snorkel.ai,https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/,research_bot,true
+snorkel-ai,employees,776,2025-12-01,,,legacy_import,true
+snorkel-ai,total_raised_usd,238000000,2026-04-12,,,legacy_import,true
+snorkel-ai,valuation_usd,1300000000,2025-05-01,,,legacy_import,false
+snorkel-ai,valuation_usd,3500000000,2026-09-22,snorkel.ai,https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/,research_bot,true
+stability-ai,arr_usd,50000000,2024-01-01,,,legacy_import,true
+stability-ai,employees,190,2026-01-31,,,legacy_import,true
+stability-ai,total_raised_usd,399000000,2026-04-12,,,legacy_import,true
+stability-ai,valuation_usd,1000000000,2024-06-01,,,legacy_import,true
+stepfun,employees,300,2025-12-01,,,legacy_import,true
+stepfun,total_raised_usd,900000000,2026-04-12,,,legacy_import,true
+stepfun,valuation_usd,5000000000,2026-01-01,,,legacy_import,true
+synthesia,arr_usd,150000000,2025-12-01,,,legacy_import,true
+synthesia,employees,400,2025-12-01,,,legacy_import,true
+synthesia,total_raised_usd,530000000,2026-04-12,,,legacy_import,true
+synthesia,valuation_usd,4000000000,2026-01-01,,,legacy_import,true
+together-ai,arr_usd,300000000,2025-09-01,,,legacy_import,true
+together-ai,employees,250,2025-12-01,,,legacy_import,true
+together-ai,total_raised_usd,533500000,2026-04-12,,,legacy_import,false
+together-ai,total_raised_usd,1300000000,2026-07-01,finance.yahoo.com,https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-180132872.html,research_bot,true
+together-ai,valuation_usd,3300000000,2025-02-01,,,legacy_import,false
+together-ai,valuation_usd,8300000000,2026-07-01,finance.yahoo.com,https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-180132872.html,research_bot,true
+tsmc,arr_usd,85000000000,2025-12-01,,,legacy_import,true
+tsmc,capex_usd,38000000000,2025-12-31,,,legacy_import,true
+tsmc,employees,73000,2025-12-01,,,legacy_import,true
+tsmc,parent_market_cap_usd,900000000000,2026-04-12,,,legacy_import,true
+tsmc,total_raised_usd,0,2026-04-12,,,legacy_import,true
+weaviate,arr_usd,12300000,2024-10-01,,,legacy_import,true
+weaviate,employees,81,2026-02-28,,,legacy_import,true
+weaviate,total_raised_usd,67700000,2026-04-12,,,legacy_import,true
+weaviate,valuation_usd,200000000,2025-10-01,,,legacy_import,true
+weights-biases,employees,300,2025-03-01,,,legacy_import,true
+weights-biases,total_raised_usd,250000000,2026-04-12,,,legacy_import,true
+weights-biases,valuation_usd,1700000000,2025-03-01,,,legacy_import,true
+xai,arr_usd,500000000,2025-12-01,,,legacy_import,true
+xai,employees,1500,2026-01-01,,,legacy_import,true
+xai,total_raised_usd,32000000000,2026-04-12,,,legacy_import,true
+xai,valuation_usd,250000000000,2026-02-01,,,legacy_import,true
+xiaomi-mimo,employees,33000,2025-12-01,,,legacy_import,true
+xiaomi-mimo,parent_market_cap_usd,111000000000,2026-04-12,,,legacy_import,true
+zhipu-ai,arr_usd,53000000,2025-12-01,,,legacy_import,true
+zhipu-ai,employees,500,2026-01-01,,,legacy_import,true
+zhipu-ai,total_raised_usd,1000000000,2026-04-12,,,legacy_import,true
+zhipu-ai,valuation_usd,31300000000,2026-03-01,,,legacy_import,true
