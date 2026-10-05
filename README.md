@@ -6,7 +6,7 @@ Files are refreshed every day by an automated job. Every day's version is in the
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to use, share and adapt, including commercially. Attribution required: **"Data by BenchGecko"** with a link to https://benchgecko.ai.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to use, share and adapt, including commercially. Attribution required: **"Source: BenchGecko"** with a link to https://benchgecko.ai.
 
 Cite as:
 
