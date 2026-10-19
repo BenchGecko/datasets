@@ -359,7 +359,8 @@ stepfun,total_raised_usd,900000000,2026-04-12,,,legacy_import,true
 stepfun,valuation_usd,5000000000,2026-01-01,,,legacy_import,true
 synthesia,arr_usd,150000000,2025-12-01,,,legacy_import,false
 synthesia,arr_usd,140000000,2026-02-01,synthesia.io,https://www.synthesia.io/post/how-we-scaled-our-billing-system-from-40m-to-140m-arr,research_bot,true
-synthesia,employees,400,2025-12-01,,,legacy_import,true
+synthesia,employees,400,2025-12-01,,,legacy_import,false
+synthesia,employees,600,2026-01-26,forbes.com,https://www.forbes.com/companies/synthesia/,research_bot,true
 synthesia,total_raised_usd,530000000,2026-04-12,,,legacy_import,true
 synthesia,valuation_usd,4000000000,2026-01-01,,,legacy_import,false
 synthesia,valuation_usd,4000000000,2026-01-26,synthesia.io,https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work,research_bot,true
