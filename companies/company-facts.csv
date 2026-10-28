@@ -17,7 +17,9 @@ amazon-aws,market_cap_usd,2740586552374,2026-10-14,SEC shares outstanding (2026-
 amazon-aws,market_cap_usd,2747921245603,2026-10-15,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,false
 amazon-aws,market_cap_usd,2696578393000,2026-10-16,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,false
 amazon-aws,market_cap_usd,2830867996971,2026-10-19,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,false
-amazon-aws,market_cap_usd,2832809533414,2026-10-20,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,true
+amazon-aws,market_cap_usd,2832809533414,2026-10-20,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,false
+amazon-aws,market_cap_usd,2830005091886,2026-10-21,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,false
+amazon-aws,market_cap_usd,2675005765856,2026-10-23,SEC shares outstanding (2026-07-22) × AMZN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724,market_price,true
 amazon-aws,parent_market_cap_usd,2260000000000,2026-04-12,,,legacy_import,true
 amazon-aws,revenue_fy_usd,716924000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724&type=10-K,sec_edgar,true
 amd,arr_usd,28000000000,2025-12-01,,,legacy_import,true
@@ -29,7 +31,9 @@ amd,market_cap_usd,931849403474,2026-10-14,SEC shares outstanding (2026-07-29) �
 amd,market_cap_usd,917826442864,2026-10-15,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,false
 amd,market_cap_usd,863171178458,2026-10-16,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,false
 amd,market_cap_usd,878353196348,2026-10-19,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,false
-amd,market_cap_usd,872949703959,2026-10-20,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,true
+amd,market_cap_usd,872949703959,2026-10-20,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,false
+amd,market_cap_usd,902301605214,2026-10-21,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,false
+amd,market_cap_usd,843646776955,2026-10-23,SEC shares outstanding (2026-07-29) × AMD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488,market_price,true
 amd,parent_market_cap_usd,200000000000,2026-04-12,,,legacy_import,true
 amd,revenue_fy_usd,34639000000,2025-12-27,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2488&type=10-K,sec_edgar,true
 amd,total_raised_usd,0,2026-04-12,,,legacy_import,true
@@ -54,7 +58,9 @@ applied-digital,market_cap_usd,6146018621,2026-10-14,SEC shares outstanding (202
 applied-digital,market_cap_usd,6165673785,2026-10-15,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,false
 applied-digital,market_cap_usd,5458087877,2026-10-16,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,false
 applied-digital,market_cap_usd,5820952445,2026-10-19,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,false
-applied-digital,market_cap_usd,5845143416,2026-10-20,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,true
+applied-digital,market_cap_usd,5845143416,2026-10-20,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,false
+applied-digital,market_cap_usd,6344082197,2026-10-21,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,false
+applied-digital,market_cap_usd,5518565305,2026-10-23,SEC shares outstanding (2026-10-06) × APLD close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879,market_price,true
 applied-digital,revenue_fy_usd,611311000,2026-05-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1144879&type=10-K,sec_edgar,true
 applied-digital,valuation_usd,2800000000,2026-04-01,,,legacy_import,true
 asml,arr_usd,30000000000,2025-12-01,,,legacy_import,true
@@ -67,7 +73,8 @@ baidu,parent_market_cap_usd,45000000000,2026-04-12,,,legacy_import,true
 baidu,revenue_fy_usd,18458000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1329099&type=10-K,sec_edgar,true
 baseten,employees,150,2026-01-01,,,legacy_import,true
 baseten,total_raised_usd,600000000,2026-04-12,,,legacy_import,true
-baseten,valuation_usd,5000000000,2026-01-01,,,legacy_import,true
+baseten,valuation_usd,5000000000,2026-01-01,,,legacy_import,false
+baseten,valuation_usd,13000000000,2026-06-22,baseten.co,https://www.baseten.co/blog/announcing-our-series-f/,research_bot,true
 broadcom,arr_usd,56000000000,2025-12-01,,,legacy_import,true
 broadcom,capex_usd,8000000000,2025-12-31,,,legacy_import,true
 broadcom,employees,37000,2025-12-01,,,legacy_import,true
@@ -77,7 +84,9 @@ broadcom,market_cap_usd,1652869340756,2026-10-14,SEC shares outstanding (2026-08
 broadcom,market_cap_usd,1643703971415,2026-10-15,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,false
 broadcom,market_cap_usd,1569330818119,2026-10-16,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,false
 broadcom,market_cap_usd,1597208816530,2026-10-19,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,false
-broadcom,market_cap_usd,1596158617960,2026-10-20,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,true
+broadcom,market_cap_usd,1596158617960,2026-10-20,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,false
+broadcom,market_cap_usd,1612532168397,2026-10-21,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,false
+broadcom,market_cap_usd,1535581254973,2026-10-23,SEC shares outstanding (2026-08-28) × AVGO close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168,market_price,true
 broadcom,parent_market_cap_usd,900000000000,2026-04-12,,,legacy_import,true
 broadcom,revenue_fy_usd,63887000000,2025-11-02,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1730168&type=10-K,sec_edgar,true
 broadcom,total_raised_usd,0,2026-04-12,,,legacy_import,true
@@ -107,7 +116,9 @@ coreweave,market_cap_usd,36244780000,2026-10-14,SEC diluted weighted shares (202
 coreweave,market_cap_usd,38399190000,2026-10-15,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,false
 coreweave,market_cap_usd,33825890000,2026-10-16,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,false
 coreweave,market_cap_usd,33677120000,2026-10-19,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,false
-coreweave,market_cap_usd,34233630000,2026-10-20,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,true
+coreweave,market_cap_usd,34233630000,2026-10-20,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,false
+coreweave,market_cap_usd,34062820000,2026-10-21,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,false
+coreweave,market_cap_usd,29883485000,2026-10-23,SEC diluted weighted shares (2026-06-30) × CRWV close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628,market_price,true
 coreweave,revenue_fy_usd,5131000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769628&type=10-K,sec_edgar,true
 coreweave,total_raised_usd,12000000000,2026-04-12,,,legacy_import,true
 coreweave,valuation_usd,46000000000,2026-03-01,,,legacy_import,true
@@ -151,7 +162,9 @@ google,market_cap_usd,4251637200000,2026-10-14,SEC common shares outstanding (20
 google,market_cap_usd,4270960600000,2026-10-15,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
 google,market_cap_usd,4165415700000,2026-10-16,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
 google,market_cap_usd,4209321400000,2026-10-19,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
-google,market_cap_usd,4161563250000,2026-10-20,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,true
+google,market_cap_usd,4161563250000,2026-10-20,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
+google,market_cap_usd,4094114800000,2026-10-21,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
+google,market_cap_usd,3916168300000,2026-10-23,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,true
 google,parent_market_cap_usd,4000000000000,2026-04-12,,,legacy_import,true
 google,revenue_fy_usd,402836000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044&type=10-K,sec_edgar,true
 google-deepmind,arr_usd,210100000,2026-01-01,,,legacy_import,true
@@ -163,7 +176,9 @@ google-deepmind,parent_market_cap_usd,4251637200000,2026-10-14,SEC common shares
 google-deepmind,parent_market_cap_usd,4270960600000,2026-10-15,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
 google-deepmind,parent_market_cap_usd,4165415700000,2026-10-16,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
 google-deepmind,parent_market_cap_usd,4209321400000,2026-10-19,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
-google-deepmind,parent_market_cap_usd,4161563250000,2026-10-20,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,true
+google-deepmind,parent_market_cap_usd,4161563250000,2026-10-20,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
+google-deepmind,parent_market_cap_usd,4094114800000,2026-10-21,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,false
+google-deepmind,parent_market_cap_usd,3916168300000,2026-10-23,SEC common shares outstanding (2026-06-30) × GOOGL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044,market_price,true
 groq,employees,400,2025-12-01,,,legacy_import,true
 groq,total_raised_usd,1300000000,2026-04-12,,,legacy_import,false
 groq,total_raised_usd,1000000000,2026-08-17,groq.com,https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud,research_bot,true
@@ -190,7 +205,9 @@ intel,market_cap_usd,494917280000,2026-10-14,SEC shares outstanding (2026-07-17)
 intel,market_cap_usd,481046280000,2026-10-15,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,false
 intel,market_cap_usd,453203400000,2026-10-16,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,false
 intel,market_cap_usd,464199320000,2026-10-19,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,false
-intel,market_cap_usd,462484360000,2026-10-20,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,true
+intel,market_cap_usd,462484360000,2026-10-20,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,false
+intel,market_cap_usd,468890240000,2026-10-21,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,false
+intel,market_cap_usd,438626240000,2026-10-23,SEC shares outstanding (2026-07-17) × INTC close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863,market_price,true
 intel,parent_market_cap_usd,100000000000,2026-04-12,,,legacy_import,true
 intel,revenue_fy_usd,52853000000,2025-12-27,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=50863&type=10-K,sec_edgar,true
 intel,total_raised_usd,0,2026-04-12,,,legacy_import,true
@@ -201,7 +218,9 @@ iren,market_cap_usd,10921492277,2026-10-14,SEC shares outstanding (2026-04-30) �
 iren,market_cap_usd,10860737903,2026-10-15,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,false
 iren,market_cap_usd,9645650411,2026-10-16,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,false
 iren,market_cap_usd,9910110630,2026-10-19,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,false
-iren,market_cap_usd,9513420302,2026-10-20,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,true
+iren,market_cap_usd,9513420302,2026-10-20,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,false
+iren,market_cap_usd,9949422284,2026-10-21,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,false
+iren,market_cap_usd,8900515876,2026-10-23,SEC shares outstanding (2026-04-30) × IREN close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848,market_price,true
 iren,revenue_fy_usd,707007000,2026-06-30,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878848&type=10-K,sec_edgar,true
 iren,valuation_usd,4200000000,2026-04-01,,,legacy_import,true
 jasper-ai,arr_usd,88000000,2025-01-01,,,legacy_import,true
@@ -227,7 +246,9 @@ marvell,market_cap_usd,215086032000,2026-10-14,SEC shares outstanding (2026-08-2
 marvell,market_cap_usd,211543356000,2026-10-15,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,false
 marvell,market_cap_usd,199784127000,2026-10-16,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,false
 marvell,market_cap_usd,207904221000,2026-10-19,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,false
-marvell,market_cap_usd,210824298000,2026-10-20,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,true
+marvell,market_cap_usd,210824298000,2026-10-20,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,false
+marvell,market_cap_usd,214630044000,2026-10-21,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,false
+marvell,market_cap_usd,200380419000,2026-10-23,SEC shares outstanding (2026-08-21) × MRVL close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632,market_price,true
 marvell,parent_market_cap_usd,80000000000,2026-04-12,,,legacy_import,true
 marvell,revenue_fy_usd,8194600000,2026-01-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1835632&type=10-K,sec_edgar,true
 marvell,total_raised_usd,0,2026-04-12,,,legacy_import,true
@@ -239,7 +260,9 @@ meta,market_cap_usd,1892527640000,2026-10-14,SEC diluted weighted shares (2026-0
 meta,market_cap_usd,1890423520000,2026-10-15,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
 meta,market_cap_usd,1820127950000,2026-10-16,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
 meta,market_cap_usd,1810159040000,2026-10-19,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
-meta,market_cap_usd,1781445500000,2026-10-20,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,true
+meta,market_cap_usd,1781445500000,2026-10-20,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
+meta,market_cap_usd,1789836320000,2026-10-21,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
+meta,market_cap_usd,1653461260000,2026-10-23,SEC diluted weighted shares (2026-09-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,true
 meta,parent_market_cap_usd,1500000000000,2026-04-12,,,legacy_import,true
 meta,revenue_fy_usd,200966000000,2025-12-31,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801&type=10-K,sec_edgar,true
 meta-ai,employees,5000,2026-03-01,,,legacy_import,true
@@ -250,7 +273,9 @@ meta-ai,parent_market_cap_usd,1892527640000,2026-10-14,SEC diluted weighted shar
 meta-ai,parent_market_cap_usd,1890423520000,2026-10-15,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
 meta-ai,parent_market_cap_usd,1820127950000,2026-10-16,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
 meta-ai,parent_market_cap_usd,1810159040000,2026-10-19,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
-meta-ai,parent_market_cap_usd,1781445500000,2026-10-20,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,true
+meta-ai,parent_market_cap_usd,1781445500000,2026-10-20,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
+meta-ai,parent_market_cap_usd,1789836320000,2026-10-21,SEC diluted weighted shares (2026-06-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,false
+meta-ai,parent_market_cap_usd,1653461260000,2026-10-23,SEC diluted weighted shares (2026-09-30) × META close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801,market_price,true
 micron,arr_usd,30000000000,2025-12-01,,,legacy_import,true
 micron,capex_usd,14000000000,2025-12-31,,,legacy_import,true
 micron,employees,48000,2025-12-01,,,legacy_import,true
@@ -260,7 +285,9 @@ micron,market_cap_usd,1034267900786,2026-10-14,SEC shares outstanding (2026-10-0
 micron,market_cap_usd,1053626551943,2026-10-15,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,false
 micron,market_cap_usd,994339975634,2026-10-16,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,false
 micron,market_cap_usd,1023824864539,2026-10-19,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,false
-micron,market_cap_usd,1013834397577,2026-10-20,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,true
+micron,market_cap_usd,1013834397577,2026-10-20,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,false
+micron,market_cap_usd,1033747446108,2026-10-21,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,false
+micron,market_cap_usd,992880439691,2026-10-23,SEC shares outstanding (2026-10-02) × MU close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125,market_price,true
 micron,parent_market_cap_usd,130000000000,2026-04-12,,,legacy_import,true
 micron,revenue_fy_usd,37378000000,2025-08-28,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125&type=10-K,sec_edgar,false
 micron,revenue_fy_usd,133188000000,2026-09-03,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=723125&type=10-K,sec_edgar,true
@@ -273,7 +300,9 @@ microsoft,market_cap_usd,3962939373092,2026-10-14,SEC shares outstanding (2026-0
 microsoft,market_cap_usd,4005636259665,2026-10-15,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,false
 microsoft,market_cap_usd,3928484842014,2026-10-16,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,false
 microsoft,market_cap_usd,3961677030358,2026-10-19,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,false
-microsoft,market_cap_usd,3949424880298,2026-10-20,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,true
+microsoft,market_cap_usd,3949424880298,2026-10-20,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,false
+microsoft,market_cap_usd,3957444469428,2026-10-21,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,false
+microsoft,market_cap_usd,3894772865484,2026-10-23,SEC shares outstanding (2026-07-23) × MSFT close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019,market_price,true
 microsoft,parent_market_cap_usd,3000000000000,2026-04-12,,,legacy_import,true
 microsoft,revenue_fy_usd,331839000000,2026-06-30,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=789019&type=10-K,sec_edgar,true
 midjourney,arr_usd,500000000,2025-01-01,,,legacy_import,true
@@ -309,7 +338,9 @@ nvidia,market_cap_usd,5333330000000,2026-10-14,SEC shares outstanding (2026-08-2
 nvidia,market_cap_usd,5235243000000,2026-10-15,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,false
 nvidia,market_cap_usd,5160533000000,2026-10-16,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,false
 nvidia,market_cap_usd,5231869000000,2026-10-19,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,false
-nvidia,market_cap_usd,5216927000000,2026-10-20,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,true
+nvidia,market_cap_usd,5216927000000,2026-10-20,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,false
+nvidia,market_cap_usd,5349477000000,2026-10-21,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,false
+nvidia,market_cap_usd,5084136000000,2026-10-23,SEC shares outstanding (2026-08-21) × NVDA close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810,market_price,true
 nvidia,parent_market_cap_usd,4500000000000,2026-04-12,,,legacy_import,true
 nvidia,revenue_fy_usd,215938000000,2026-01-25,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810&type=10-K,sec_edgar,true
 openai,arr_usd,25000000000,2026-02-01,,,legacy_import,true
@@ -333,7 +364,9 @@ qualcomm,market_cap_usd,181251000000,2026-10-14,SEC shares outstanding (2026-07-
 qualcomm,market_cap_usd,187320000000,2026-10-15,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,false
 qualcomm,market_cap_usd,180715500000,2026-10-16,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,false
 qualcomm,market_cap_usd,182206500000,2026-10-19,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,false
-qualcomm,market_cap_usd,184495500000,2026-10-20,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,true
+qualcomm,market_cap_usd,184495500000,2026-10-20,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,false
+qualcomm,market_cap_usd,186858000000,2026-10-21,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,false
+qualcomm,market_cap_usd,184705500000,2026-10-23,SEC shares outstanding (2026-07-27) × QCOM close,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328,market_price,true
 qualcomm,parent_market_cap_usd,200000000000,2026-04-12,,,legacy_import,true
 qualcomm,revenue_fy_usd,44284000000,2025-09-28,SEC EDGAR annual filing,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=804328&type=10-K,sec_edgar,true
 qualcomm,total_raised_usd,0,2026-04-12,,,legacy_import,true
