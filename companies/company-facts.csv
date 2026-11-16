@@ -61,7 +61,8 @@ anthropic,arr_usd,14000000000,2026-02-01,,,legacy_import,true
 anthropic,employees,4585,2026-02-28,,,legacy_import,true
 anthropic,total_raised_usd,64000000000,2026-04-12,,,legacy_import,true
 anthropic,valuation_usd,380000000000,2026-02-01,,,legacy_import,false
-anthropic,valuation_usd,965000000000,2026-05-28,nbcnews.com,https://www.nbcnews.com/tech/tech-news/anthropic-secures-965-billion-valuation-after-raising-65-billion-rcna347390,research_bot,true
+anthropic,valuation_usd,965000000000,2026-05-28,nbcnews.com,https://www.nbcnews.com/tech/tech-news/anthropic-secures-965-billion-valuation-after-raising-65-billion-rcna347390,research_bot,false
+anthropic,valuation_usd,1400000000000,2026-11-10,nytimes.com,https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html,research_bot,true
 anyscale,arr_usd,100000000,2026-01-01,,,legacy_import,true
 anyscale,employees,200,2025-12-01,,,legacy_import,true
 anyscale,total_raised_usd,281000000,2026-04-12,,,legacy_import,false
@@ -201,7 +202,8 @@ fireworks-ai,valuation_usd,17500000000,2026-07-16,cnbc.com,https://www.cnbc.com/
 glean,arr_usd,200000000,2025-12-01,,,legacy_import,false
 glean,arr_usd,300000000,2026-05-01,glean.com,https://www.glean.com/about,research_bot,false
 glean,arr_usd,300000000,2026-05-28,glean.com,https://www.glean.com/press/glean-surpasses-300m-arr-unrivaled-enterprise-context-fuels-ai-adoption,research_bot,true
-glean,employees,600,2025-12-01,,,legacy_import,true
+glean,employees,600,2025-12-01,,,legacy_import,false
+glean,employees,1000,2025-12-08,glean.com,https://www.glean.com/press/glean-surpasses-200m-in-arr-for-enterprise-ai-doubling-revenue-in-nine-months,research_bot,true
 glean,total_raised_usd,765000000,2026-04-12,,,legacy_import,false
 glean,total_raised_usd,770000000,2026-04-16,forbes.com,https://www.forbes.com/companies/glean/,research_bot,true
 glean,valuation_usd,7200000000,2025-06-01,,,legacy_import,true
@@ -552,7 +554,8 @@ replit,total_raised_usd,750000000,2026-04-12,,,legacy_import,true
 replit,valuation_usd,9000000000,2026-01-01,,,legacy_import,false
 replit,valuation_usd,9000000000,2026-03-11,sacra.com,https://sacra.com/c/replit/,research_bot,true
 runway,arr_usd,90000000,2025-06-01,,,legacy_import,true
-runway,employees,200,2025-12-01,,,legacy_import,true
+runway,employees,200,2025-12-01,,,legacy_import,false
+runway,employees,155,2026-05-15,techcrunch.com,https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/,research_bot,true
 runway,total_raised_usd,700000000,2026-04-12,,,legacy_import,true
 runway,valuation_usd,5300000000,2026-02-01,,,legacy_import,true
 sambanova,employees,500,2025-12-01,,,legacy_import,true
